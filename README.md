@@ -7,13 +7,7 @@ Demos<br />
 <br/><br/>
 
 Images <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/01.jpg' width='300px'> <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br />
-<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br /><img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='400px'> <br />
+<img src='https://raw.github.com/gmtuca/LedCube/master/images/00.jpg' width='500px'> <br />
+<img src='https://raw.github.com/gmtuca/LedCube/master/images/01.jpg' width='300px'>
+<img src='https://raw.github.com/gmtuca/LedCube/master/images/02.jpg' width='300px'> <br />
+<img src='https://raw.github.com/gmtuca/LedCube/master/images/03.jpg' width='300px'> <br />
